@@ -6,6 +6,17 @@ A modern, responsive website created for **Croatia Del Sole**, showcasing holida
 https://amberg710.github.io/rab-apartments-croatia-del-sole-/
 
 ---
+## 📸 Screenshots
+
+<p align="center">
+  <img src="images/Home.png" width="48%" alt="Homepage">
+  <img src="images/Booking.png" width="48%" alt="Booking">
+</p>
+
+<p align="center">
+  <img src="images/Location.png" width="48%" alt="Location">
+  <img src="images/Exp.png" width="48%" alt="Experience">
+</p>
 
 ## 📖 About the Project
 
